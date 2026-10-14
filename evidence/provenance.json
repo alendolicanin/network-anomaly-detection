@@ -1,0 +1,61 @@
+{
+  "recorded_experiment": {
+    "code_hash": "bfffa42430e75f53ca6a707f5937403b8503089499ac27755bdfdf407646df76",
+    "config_hash": "a99128fb73edae110b6d815d104f7cc3576b98e4a4ae7427420f1e48f0a3b87d",
+    "decision_sha256": "a33f39f99a33e26fe0fd66fc1645d3bb559954420563685a4a6ac8daa9c61f23",
+    "module_sha256": {
+      "ids/__init__.py": "70d5c1c4c2891be17c9285e41fad39a7a04b922e715a5297ee4feed2f0aed53d",
+      "ids/__main__.py": "37041a4f2c86ebc123f0dfdb480db282100457cf69a7a51e401689a35aa86a32",
+      "ids/core.py": "fba76183c20684afe15f2c27a843fc820fc80a32ec41055460b35ae3e24ff53a",
+      "ids/data.py": "dc3de625f83e82aa781aee5494b334b5a4d6f2c36ecadaa716f244666fcccd86",
+      "ids/metrics.py": "bb3d05c658e32a90076d353ad030cfa7aa03358c67bc744575ed54842271fcbd",
+      "ids/models.py": "48dd8d25051451fbc70d9b7824bb37e6718608daf8332a61a7cca224964e4326",
+      "ids/pilot.py": "8b744883b4775f3f27cd5a46b1504bcbda22500c5d3ced8e0e301a4291f012af",
+      "ids/pipeline.py": "d5103ccbd150c8ff4d99e2ae2e7aa00b00e42a0788dd0a2d81778f636caa6052",
+      "ids/report.py": "e2ba7dfea45b233a954b868b3f65bcd77ad6f57f212ed9e362c1865e9fae3832"
+    }
+  },
+  "distribution": {
+    "code_hash": "4481196a8f0db6790822ce5180202a1122b0371b62b041a77f54631aa2534754",
+    "config_hash": "ba636606e930279f9a05e6cca962156fa0104b5779ea3d400f2677e56a398e84",
+    "decision_sha256": "3f5559b61b36b4a6525c3216817d6d790f505aac62bcfd10df8ed8fbeb1e1bb3",
+    "module_sha256": {
+      "ids/__init__.py": "c5ce4369991f38cf03ba8e23dc6e37e3dd98fe5e99ef1d007ee7fb09301c0a5b",
+      "ids/__main__.py": "6f3825c55be944d0799af58064b7b1faeb1fc7ca57d72a02699df09effee13c1",
+      "ids/core.py": "e8f21e94e61bcb7592b77c13efd387cd00b847abc1a0dfe3747feca15ad84c07",
+      "ids/data.py": "9ceeca6aea4541bd7a4c4f2f5fd21b4ad9948fb1b13f5dacfd06e13528be62da",
+      "ids/metrics.py": "bb3d05c658e32a90076d353ad030cfa7aa03358c67bc744575ed54842271fcbd",
+      "ids/models.py": "48dd8d25051451fbc70d9b7824bb37e6718608daf8332a61a7cca224964e4326",
+      "ids/pilot.py": "8b744883b4775f3f27cd5a46b1504bcbda22500c5d3ced8e0e301a4291f012af",
+      "ids/pipeline.py": "b3882e53f8c68522be0419d7bf400e6c41194fa4d84c4a56634866ce4465ab02",
+      "ids/report.py": "e2ba7dfea45b233a954b868b3f65bcd77ad6f57f212ed9e362c1865e9fae3832"
+    },
+    "normalized_metadata": {
+      "results/decision.json": {
+        "recorded_sha256": "a33f39f99a33e26fe0fd66fc1645d3bb559954420563685a4a6ac8daa9c61f23",
+        "distributed_sha256": "3f5559b61b36b4a6525c3216817d6d790f505aac62bcfd10df8ed8fbeb1e1bb3"
+      },
+      "configs/experiment.json": {
+        "recorded_sha256": "00adbce877c876943ef50f19f7ff0cfad632c28ba16323a7661dbb7dca3ffc71",
+        "distributed_sha256": "7febe03e038227ef2b329fa3f2683052fc0e764dd58c8cc81dfd21a59f620da8"
+      },
+      "evidence/data/cic2017/manifest_summary.json": {
+        "recorded_sha256": "f44ac61ec930e9e161dd4ed520ee5082e329980ee10e1a8dfbdd9ad59ae43272",
+        "distributed_sha256": "a5a0b6a5495ba11be0f8c1630871c1bdfac378763a92ba4d0a397116245ecdd8"
+      },
+      "evidence/data/cic2017/data_identity.json": {
+        "recorded_sha256": "80a2e241efb82d660052bc34a634cd0c2900548457684f7d179dd22fa9cd98e3",
+        "distributed_sha256": "8618c8d62c45e3e32c9dafbe86b6b01c886718102b3cd5e66a0856848ce7b5d0"
+      },
+      "evidence/data/cic2018/manifest_summary.json": {
+        "recorded_sha256": "c6251552063e0d9db2bc98f4e764353012049da6c1e8fafd8b0adea5ceb39c36",
+        "distributed_sha256": "e8bc8e7a4af0d6ade6812c2c3ca6f37ad29d6684ec29a713d77690780ba72d9f"
+      },
+      "evidence/data/cic2018/data_identity.json": {
+        "recorded_sha256": "f723e10bdeef18ddac7b7fb79878578e3fcdd6251a7563ca9b7709c359dd1cf4",
+        "distributed_sha256": "2a8058b8f4ae9ad2b4a9c9d699981130776c580eb36db72d6ab77fc1d2edb7c4"
+      }
+    }
+  },
+  "scope": "Naming and metadata cleanup; training settings, model selection and numerical results are unchanged. Recorded hashes identify the original execution artifacts; distribution hashes identify the supplied files. No retraining was performed for this release."
+}

@@ -1,0 +1,83 @@
+{
+  "seeds": [
+    7,
+    21,
+    42,
+    84,
+    123
+  ],
+  "percentiles": [
+    90,
+    92,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    99.5,
+    99.9
+  ],
+  "ae": {
+    "max_epochs": 200,
+    "patience": 8,
+    "min_delta": 1e-05,
+    "batch_size": 512,
+    "learning_rate_init": 0.001,
+    "alpha": 1e-05,
+    "shuffle": false
+  },
+  "architectures": {
+    "ae_l4": [
+      64,
+      32,
+      4,
+      32,
+      64
+    ],
+    "ae_l8": [
+      64,
+      32,
+      8,
+      32,
+      64
+    ],
+    "ae_l16": [
+      64,
+      32,
+      16,
+      32,
+      64
+    ],
+    "ae_l32": [
+      64,
+      32,
+      32,
+      32,
+      64
+    ],
+    "ae_compact_l16": [
+      32,
+      16,
+      32
+    ],
+    "ae_wide_l16": [
+      128,
+      64,
+      32,
+      16,
+      32,
+      64,
+      128
+    ]
+  },
+  "iforest": {
+    "n_estimators": 300,
+    "max_samples": 4096,
+    "max_features": 1.0,
+    "bootstrap": false,
+    "contamination": "auto"
+  },
+  "inference_batch_size": 16384,
+  "threads": 1
+}

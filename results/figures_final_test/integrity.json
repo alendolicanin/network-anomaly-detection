@@ -1,0 +1,10 @@
+{
+  "figure_context.json": "383036512e82ac55545345dfd8aff557103fb72967e1e30fb0a24020a01ed8d4",
+  "percentile_f1.pdf": "d8909e38cd846ccfcc50a1f35c0b74fc571861bd46f661f06fecdcd95a60c24f",
+  "pr_seed42.pdf": "23aa31c22590e4400be913d8afde0f24cd435a0462d6b7931eda463a01012189",
+  "roc_seed42.pdf": "2f610be98275c201afb73fb870e849d9d95764f656775da8a7284793cc853b28",
+  "scores_ae_l8.pdf": "864b16a3f5c5e197dcb57d5d98a6f26fa845288813136bbe6ad60a6c2ce85d2e",
+  "scores_iforest.pdf": "a047dec22ffcafb948f1912fed7bcb4f89737a839f235cce229fc0af662bea5f",
+  "training_ae_l32.pdf": "f2222530aefc306f16a4c998332e6e517ab78dc9e4cfce8b5cc8dfbb3fadd17e",
+  "training_ae_l8.pdf": "47d536d3185e3992a7fa57d289a6e6d0f5deb2236a12692a3ef9a61f98284e8d"
+}

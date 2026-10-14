@@ -1,0 +1,582 @@
+[
+  {
+    "model": "ae_l16",
+    "seed": 7,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 26,
+    "epochs_ran": 34,
+    "fit_seconds": 297.7070029839997,
+    "monitoring_seconds": 122.48442704100046,
+    "training_with_monitoring_seconds": 420.28570999,
+    "parameters": 15906,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 264015,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 11.177566213000091,
+      "scaling_seconds": 0.9597289050002473,
+      "inference_rows_per_second": 484013.05766435864,
+      "total_with_io_and_diagnostics_seconds": 22.752904130999923
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.9048525520001931,
+      "scaling_seconds": 0.055335223000156475,
+      "inference_rows_per_second": 317787.6874683762,
+      "total_with_io_and_diagnostics_seconds": 3.1442995570000676
+    }
+  },
+  {
+    "model": "ae_l16",
+    "seed": 21,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 18,
+    "epochs_ran": 26,
+    "fit_seconds": 227.21611073600047,
+    "monitoring_seconds": 92.57679447800001,
+    "training_with_monitoring_seconds": 319.86604758500016,
+    "parameters": 15906,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 263868,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 16.13978294699905,
+      "scaling_seconds": 1.574419499999749,
+      "inference_rows_per_second": 335202.02952951886,
+      "total_with_io_and_diagnostics_seconds": 27.74785716700012
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.9227245659994878,
+      "scaling_seconds": 0.05875587700052165,
+      "inference_rows_per_second": 311632.5397585216,
+      "total_with_io_and_diagnostics_seconds": 3.2213883239999177
+    }
+  },
+  {
+    "model": "ae_l16",
+    "seed": 42,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 28,
+    "epochs_ran": 36,
+    "fit_seconds": 315.0490587439997,
+    "monitoring_seconds": 130.94982174200027,
+    "training_with_monitoring_seconds": 446.10151047399995,
+    "parameters": 15906,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 264063,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 16.00736879099486,
+      "scaling_seconds": 1.2466484630003833,
+      "inference_rows_per_second": 337974.8458749517,
+      "total_with_io_and_diagnostics_seconds": 28.052834667999832
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.940707759000361,
+      "scaling_seconds": 0.216580428999805,
+      "inference_rows_per_second": 305675.1655855,
+      "total_with_io_and_diagnostics_seconds": 3.447324834000028
+    }
+  },
+  {
+    "model": "ae_l16",
+    "seed": 84,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 21,
+    "epochs_ran": 29,
+    "fit_seconds": 255.2467961859993,
+    "monitoring_seconds": 104.85294857000099,
+    "training_with_monitoring_seconds": 360.18151185399984,
+    "parameters": 15906,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 263916,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 16.655209778008157,
+      "scaling_seconds": 1.55395906099875,
+      "inference_rows_per_second": 324828.5714865975,
+      "total_with_io_and_diagnostics_seconds": 29.83502211599989
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 1.0906488850000642,
+      "scaling_seconds": 0.07068737899953703,
+      "inference_rows_per_second": 263651.30332479376,
+      "total_with_io_and_diagnostics_seconds": 3.9164708419998533
+    }
+  },
+  {
+    "model": "ae_l16",
+    "seed": 123,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 21,
+    "epochs_ran": 29,
+    "fit_seconds": 251.78504564699972,
+    "monitoring_seconds": 103.39567992799982,
+    "training_with_monitoring_seconds": 355.26081935,
+    "parameters": 15906,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 263916,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 9.730866324999738,
+      "scaling_seconds": 1.1475083919999634,
+      "inference_rows_per_second": 555971.8754023832,
+      "total_with_io_and_diagnostics_seconds": 20.951968861999944
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.7365388519997396,
+      "scaling_seconds": 0.07110823000016353,
+      "inference_rows_per_second": 390408.461439997,
+      "total_with_io_and_diagnostics_seconds": 2.781395878000012
+    }
+  },
+  {
+    "model": "ae_l32",
+    "seed": 7,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 21,
+    "epochs_ran": 29,
+    "fit_seconds": 266.76663716800044,
+    "monitoring_seconds": 107.88303957500034,
+    "training_with_monitoring_seconds": 374.73902491,
+    "parameters": 16946,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 280556,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 12.157187502000397,
+      "scaling_seconds": 2.0124546990020917,
+      "inference_rows_per_second": 445011.47976123594,
+      "total_with_io_and_diagnostics_seconds": 24.516497501000003
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.9371362909996606,
+      "scaling_seconds": 0.05594008300045061,
+      "inference_rows_per_second": 306840.10720923427,
+      "total_with_io_and_diagnostics_seconds": 3.3343286839999564
+    }
+  },
+  {
+    "model": "ae_l32",
+    "seed": 21,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 33,
+    "epochs_ran": 41,
+    "fit_seconds": 376.6969244049999,
+    "monitoring_seconds": 151.02279136900097,
+    "training_with_monitoring_seconds": 527.843073103,
+    "parameters": 16946,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 280799,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 15.838569864996998,
+      "scaling_seconds": 1.9170118150000235,
+      "inference_rows_per_second": 341576.7993015716,
+      "total_with_io_and_diagnostics_seconds": 28.60365836400001
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.8254807889998119,
+      "scaling_seconds": 0.07340359699992405,
+      "inference_rows_per_second": 348343.6608481333,
+      "total_with_io_and_diagnostics_seconds": 3.1012281369999073
+    }
+  },
+  {
+    "model": "ae_l32",
+    "seed": 42,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 23,
+    "epochs_ran": 31,
+    "fit_seconds": 285.1771822649994,
+    "monitoring_seconds": 115.81827106699939,
+    "training_with_monitoring_seconds": 401.0865585700003,
+    "parameters": 16946,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 280604,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 16.50518235899972,
+      "scaling_seconds": 2.3567469340027856,
+      "inference_rows_per_second": 327781.1709272065,
+      "total_with_io_and_diagnostics_seconds": 29.865397399999893
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.9038981670000794,
+      "scaling_seconds": 0.20827290699935475,
+      "inference_rows_per_second": 318123.22504684835,
+      "total_with_io_and_diagnostics_seconds": 3.293694081999547
+    }
+  },
+  {
+    "model": "ae_l32",
+    "seed": 84,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 20,
+    "epochs_ran": 28,
+    "fit_seconds": 260.8405179689985,
+    "monitoring_seconds": 102.47314689199811,
+    "training_with_monitoring_seconds": 363.39266554000005,
+    "parameters": 16946,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 280540,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 13.541895460003161,
+      "scaling_seconds": 2.1955554239989397,
+      "inference_rows_per_second": 399507.44088809687,
+      "total_with_io_and_diagnostics_seconds": 26.455896940999992
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.9123542979996273,
+      "scaling_seconds": 0.06247807799945804,
+      "inference_rows_per_second": 315174.70858685806,
+      "total_with_io_and_diagnostics_seconds": 3.1921691109996573
+    }
+  },
+  {
+    "model": "ae_l32",
+    "seed": 123,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 16,
+    "epochs_ran": 24,
+    "fit_seconds": 221.520804028999,
+    "monitoring_seconds": 89.77818769100031,
+    "training_with_monitoring_seconds": 311.3752961959999,
+    "parameters": 16946,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 280460,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 14.513476373003869,
+      "scaling_seconds": 2.5302603600030125,
+      "inference_rows_per_second": 372763.0693679401,
+      "total_with_io_and_diagnostics_seconds": 27.61995179800033
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.9410067569983767,
+      "scaling_seconds": 0.5046742539998377,
+      "inference_rows_per_second": 305578.0395427023,
+      "total_with_io_and_diagnostics_seconds": 3.785478796999996
+    }
+  },
+  {
+    "model": "ae_l8",
+    "seed": 7,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 27,
+    "epochs_ran": 35,
+    "fit_seconds": 310.0867841310005,
+    "monitoring_seconds": 125.124114886999,
+    "training_with_monitoring_seconds": 435.3228669089999,
+    "parameters": 15386,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 255727,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 13.65678574899539,
+      "scaling_seconds": 2.4591832119986066,
+      "inference_rows_per_second": 396146.5091006479,
+      "total_with_io_and_diagnostics_seconds": 26.347523712999646
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.9538188169999557,
+      "scaling_seconds": 0.20441800999878978,
+      "inference_rows_per_second": 301473.39817055984,
+      "total_with_io_and_diagnostics_seconds": 3.4245506570000543
+    }
+  },
+  {
+    "model": "ae_l8",
+    "seed": 21,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 34,
+    "epochs_ran": 42,
+    "fit_seconds": 373.64718769700266,
+    "monitoring_seconds": 149.30986288399754,
+    "training_with_monitoring_seconds": 523.0933511389999,
+    "parameters": 15386,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 255855,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 13.230463536996467,
+      "scaling_seconds": 2.4589230230012618,
+      "inference_rows_per_second": 408911.4478016376,
+      "total_with_io_and_diagnostics_seconds": 26.428864365000663
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.9542122940010813,
+      "scaling_seconds": 0.2049546910029676,
+      "inference_rows_per_second": 301349.083225786,
+      "total_with_io_and_diagnostics_seconds": 3.506684306000352
+    }
+  },
+  {
+    "model": "ae_l8",
+    "seed": 42,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 27,
+    "epochs_ran": 35,
+    "fit_seconds": 302.6184972389999,
+    "monitoring_seconds": 120.75930120599992,
+    "training_with_monitoring_seconds": 423.4775259580001,
+    "parameters": 15386,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 255711,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 12.487431446999153,
+      "scaling_seconds": 3.3222700950004764,
+      "inference_rows_per_second": 433242.6586654131,
+      "total_with_io_and_diagnostics_seconds": 26.004194453000082
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.7788777519992891,
+      "scaling_seconds": 0.10294464900039202,
+      "inference_rows_per_second": 369186.3058893258,
+      "total_with_io_and_diagnostics_seconds": 2.8918530839998766
+    }
+  },
+  {
+    "model": "ae_l8",
+    "seed": 84,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 32,
+    "epochs_ran": 40,
+    "fit_seconds": 352.87187006400154,
+    "monitoring_seconds": 140.4275655059987,
+    "training_with_monitoring_seconds": 493.4161522259999,
+    "parameters": 15386,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 255823,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 12.03421107000122,
+      "scaling_seconds": 2.0488040599998385,
+      "inference_rows_per_second": 449559.00877343107,
+      "total_with_io_and_diagnostics_seconds": 24.392848934000085
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.7094062920004944,
+      "scaling_seconds": 0.11598936799873627,
+      "inference_rows_per_second": 405340.3574827605,
+      "total_with_io_and_diagnostics_seconds": 2.692070457999762
+    }
+  },
+  {
+    "model": "ae_l8",
+    "seed": 123,
+    "kind": "ae",
+    "scaling": "standard",
+    "best_epoch": 27,
+    "epochs_ran": 35,
+    "fit_seconds": 318.07503140200106,
+    "monitoring_seconds": 130.19027367799936,
+    "training_with_monitoring_seconds": 448.3682027169998,
+    "parameters": 15386,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 255727,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 13.820692874009183,
+      "scaling_seconds": 1.5095435880029981,
+      "inference_rows_per_second": 391448.39186565415,
+      "total_with_io_and_diagnostics_seconds": 25.503724670999873
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 0.8543820369986861,
+      "scaling_seconds": 0.05709507200299413,
+      "inference_rows_per_second": 336560.21258373227,
+      "total_with_io_and_diagnostics_seconds": 3.0666143750004267
+    }
+  },
+  {
+    "model": "iforest",
+    "seed": 7,
+    "kind": "iforest",
+    "scaling": "standard",
+    "best_epoch": null,
+    "epochs_ran": null,
+    "fit_seconds": 5.963444222000135,
+    "monitoring_seconds": 0.0,
+    "training_with_monitoring_seconds": 5.963444222000135,
+    "parameters": 0,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 8569245,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 65.92266500499977,
+      "scaling_seconds": 1.3122226869984388,
+      "inference_rows_per_second": 82067.1919072095,
+      "total_with_io_and_diagnostics_seconds": 75.38026203200002
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 1.7777886070005025,
+      "scaling_seconds": 0.07602300300050047,
+      "inference_rows_per_second": 161746.45223154966,
+      "total_with_io_and_diagnostics_seconds": 2.192476012000043
+    }
+  },
+  {
+    "model": "iforest",
+    "seed": 21,
+    "kind": "iforest",
+    "scaling": "standard",
+    "best_epoch": null,
+    "epochs_ran": null,
+    "fit_seconds": 5.253727977000153,
+    "monitoring_seconds": 0.0,
+    "training_with_monitoring_seconds": 5.253727977000153,
+    "parameters": 0,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 8685053,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 66.0928155509987,
+      "scaling_seconds": 1.5002073109972116,
+      "inference_rows_per_second": 81855.91663628636,
+      "total_with_io_and_diagnostics_seconds": 75.94424514299999
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 2.05652110700089,
+      "scaling_seconds": 0.07909920900033285,
+      "inference_rows_per_second": 139823.99646719286,
+      "total_with_io_and_diagnostics_seconds": 2.463047763000077
+    }
+  },
+  {
+    "model": "iforest",
+    "seed": 42,
+    "kind": "iforest",
+    "scaling": "standard",
+    "best_epoch": null,
+    "epochs_ran": null,
+    "fit_seconds": 5.438287748999983,
+    "monitoring_seconds": 0.0,
+    "training_with_monitoring_seconds": 5.438287748999983,
+    "parameters": 0,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 8475965,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 65.43882532500083,
+      "scaling_seconds": 1.8734284419981577,
+      "inference_rows_per_second": 82673.97791954376,
+      "total_with_io_and_diagnostics_seconds": 75.56946302699998
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 1.8856380290003472,
+      "scaling_seconds": 0.10372202299913624,
+      "inference_rows_per_second": 152495.3334508439,
+      "total_with_io_and_diagnostics_seconds": 2.3074289730000146
+    }
+  },
+  {
+    "model": "iforest",
+    "seed": 84,
+    "kind": "iforest",
+    "scaling": "standard",
+    "best_epoch": null,
+    "epochs_ran": null,
+    "fit_seconds": 5.650551130999929,
+    "monitoring_seconds": 0.0,
+    "training_with_monitoring_seconds": 5.650551130999929,
+    "parameters": 0,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 8256509,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 65.15431419900551,
+      "scaling_seconds": 1.8854217920027168,
+      "inference_rows_per_second": 83034.99264032737,
+      "total_with_io_and_diagnostics_seconds": 75.3213784579998
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 1.885626594000314,
+      "scaling_seconds": 0.0976445169994804,
+      "inference_rows_per_second": 152496.25822786422,
+      "total_with_io_and_diagnostics_seconds": 2.2959565060000386
+    }
+  },
+  {
+    "model": "iforest",
+    "seed": 123,
+    "kind": "iforest",
+    "scaling": "standard",
+    "best_epoch": null,
+    "epochs_ran": null,
+    "fit_seconds": 5.51585335499999,
+    "monitoring_seconds": 0.0,
+    "training_with_monitoring_seconds": 5.51585335499999,
+    "parameters": 0,
+    "training_cpu": "AMD EPYC 9V74 80-Core Processor",
+    "model_bytes": 8516445,
+    "zero_iqr_columns": [],
+    "external_test_timing": {
+      "rows": 5410088,
+      "inference_seconds": 66.39672924000001,
+      "scaling_seconds": 2.168881113000225,
+      "inference_rows_per_second": 81481.24255404962,
+      "total_with_io_and_diagnostics_seconds": 76.78568819199995
+    },
+    "external_diagnostic_timing": {
+      "rows": 287551,
+      "inference_seconds": 1.973707848999311,
+      "scaling_seconds": 0.09797545000014907,
+      "inference_rows_per_second": 145690.76175371706,
+      "total_with_io_and_diagnostics_seconds": 2.3977998450000086
+    }
+  }
+]

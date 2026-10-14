@@ -1,0 +1,401 @@
+model,seed,percentile,label,n,alarm_rate,effective_attack
+ae_l16,7,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,7,90,SSH-BruteForce,94197,1.0,True
+ae_l16,7,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,7,92,SSH-BruteForce,94197,1.0,True
+ae_l16,7,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,7,94,SSH-BruteForce,94197,1.0,True
+ae_l16,7,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,7,95,SSH-BruteForce,94197,1.0,True
+ae_l16,7,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,7,96,SSH-BruteForce,94197,1.0,True
+ae_l16,7,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,7,97,SSH-BruteForce,94197,1.0,True
+ae_l16,7,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,7,98,SSH-BruteForce,94197,1.0,True
+ae_l16,7,99,FTP-BruteForce - Attempted,193354,0.9173950370822429,False
+ae_l16,7,99,SSH-BruteForce,94197,0.003450216036604138,True
+ae_l16,7,99.5,FTP-BruteForce - Attempted,193354,0.8936510235112798,False
+ae_l16,7,99.5,SSH-BruteForce,94197,0.0,True
+ae_l16,7,99.9,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+ae_l16,7,99.9,SSH-BruteForce,94197,0.0,True
+ae_l16,21,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,21,90,SSH-BruteForce,94197,1.0,True
+ae_l16,21,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,21,92,SSH-BruteForce,94197,1.0,True
+ae_l16,21,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,21,94,SSH-BruteForce,94197,1.0,True
+ae_l16,21,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,21,95,SSH-BruteForce,94197,1.0,True
+ae_l16,21,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,21,96,SSH-BruteForce,94197,1.0,True
+ae_l16,21,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,21,97,SSH-BruteForce,94197,1.0,True
+ae_l16,21,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,21,98,SSH-BruteForce,94197,1.0,True
+ae_l16,21,99,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,21,99,SSH-BruteForce,94197,0.0,True
+ae_l16,21,99.5,FTP-BruteForce - Attempted,193354,0.8982022611376025,False
+ae_l16,21,99.5,SSH-BruteForce,94197,0.0,True
+ae_l16,21,99.9,FTP-BruteForce - Attempted,193354,0.8725239715754523,False
+ae_l16,21,99.9,SSH-BruteForce,94197,0.0,True
+ae_l16,42,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,42,90,SSH-BruteForce,94197,1.0,True
+ae_l16,42,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,42,92,SSH-BruteForce,94197,1.0,True
+ae_l16,42,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,42,94,SSH-BruteForce,94197,1.0,True
+ae_l16,42,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,42,95,SSH-BruteForce,94197,1.0,True
+ae_l16,42,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,42,96,SSH-BruteForce,94197,1.0,True
+ae_l16,42,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,42,97,SSH-BruteForce,94197,1.0,True
+ae_l16,42,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,42,98,SSH-BruteForce,94197,1.0,True
+ae_l16,42,99,FTP-BruteForce - Attempted,193354,0.9003382397054108,False
+ae_l16,42,99,SSH-BruteForce,94197,0.0,True
+ae_l16,42,99.5,FTP-BruteForce - Attempted,193354,0.8934286334909027,False
+ae_l16,42,99.5,SSH-BruteForce,94197,0.0,True
+ae_l16,42,99.9,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+ae_l16,42,99.9,SSH-BruteForce,94197,0.0,True
+ae_l16,84,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,84,90,SSH-BruteForce,94197,1.0,True
+ae_l16,84,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,84,92,SSH-BruteForce,94197,1.0,True
+ae_l16,84,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,84,94,SSH-BruteForce,94197,1.0,True
+ae_l16,84,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,84,95,SSH-BruteForce,94197,1.0,True
+ae_l16,84,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,84,96,SSH-BruteForce,94197,1.0,True
+ae_l16,84,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,84,97,SSH-BruteForce,94197,1.0,True
+ae_l16,84,98,FTP-BruteForce - Attempted,193354,0.9996690008999038,False
+ae_l16,84,98,SSH-BruteForce,94197,1.0,True
+ae_l16,84,99,FTP-BruteForce - Attempted,193354,0.9002916929569598,False
+ae_l16,84,99,SSH-BruteForce,94197,0.0035563765300381115,True
+ae_l16,84,99.5,FTP-BruteForce - Attempted,193354,0.8911685302605583,False
+ae_l16,84,99.5,SSH-BruteForce,94197,0.0,True
+ae_l16,84,99.9,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+ae_l16,84,99.9,SSH-BruteForce,94197,0.0,True
+ae_l16,123,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,123,90,SSH-BruteForce,94197,1.0,True
+ae_l16,123,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,123,92,SSH-BruteForce,94197,1.0,True
+ae_l16,123,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,123,94,SSH-BruteForce,94197,1.0,True
+ae_l16,123,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,123,95,SSH-BruteForce,94197,1.0,True
+ae_l16,123,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,123,96,SSH-BruteForce,94197,1.0,True
+ae_l16,123,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,123,97,SSH-BruteForce,94197,1.0,True
+ae_l16,123,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,123,98,SSH-BruteForce,94197,1.0,True
+ae_l16,123,99,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l16,123,99,SSH-BruteForce,94197,0.0002866333322717284,True
+ae_l16,123,99.5,FTP-BruteForce - Attempted,193354,0.8959680172119532,False
+ae_l16,123,99.5,SSH-BruteForce,94197,0.0,True
+ae_l16,123,99.9,FTP-BruteForce - Attempted,193354,0.8725239715754523,False
+ae_l16,123,99.9,SSH-BruteForce,94197,0.0,True
+ae_l32,7,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,7,90,SSH-BruteForce,94197,1.0,True
+ae_l32,7,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,7,92,SSH-BruteForce,94197,1.0,True
+ae_l32,7,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,7,94,SSH-BruteForce,94197,1.0,True
+ae_l32,7,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,7,95,SSH-BruteForce,94197,1.0,True
+ae_l32,7,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,7,96,SSH-BruteForce,94197,1.0,True
+ae_l32,7,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,7,97,SSH-BruteForce,94197,0.018110980179835878,True
+ae_l32,7,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,7,98,SSH-BruteForce,94197,0.0,True
+ae_l32,7,99,FTP-BruteForce - Attempted,193354,0.9091872937720451,False
+ae_l32,7,99,SSH-BruteForce,94197,0.0,True
+ae_l32,7,99.5,FTP-BruteForce - Attempted,193354,0.8934286334909027,False
+ae_l32,7,99.5,SSH-BruteForce,94197,0.0,True
+ae_l32,7,99.9,FTP-BruteForce - Attempted,193354,0.8725239715754523,False
+ae_l32,7,99.9,SSH-BruteForce,94197,0.0,True
+ae_l32,21,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,21,90,SSH-BruteForce,94197,1.0,True
+ae_l32,21,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,21,92,SSH-BruteForce,94197,1.0,True
+ae_l32,21,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,21,94,SSH-BruteForce,94197,1.0,True
+ae_l32,21,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,21,95,SSH-BruteForce,94197,1.0,True
+ae_l32,21,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,21,96,SSH-BruteForce,94197,1.0,True
+ae_l32,21,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,21,97,SSH-BruteForce,94197,1.0,True
+ae_l32,21,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,21,98,SSH-BruteForce,94197,0.0,True
+ae_l32,21,99,FTP-BruteForce - Attempted,193354,0.89899355586127,False
+ae_l32,21,99,SSH-BruteForce,94197,0.0,True
+ae_l32,21,99.5,FTP-BruteForce - Attempted,193354,0.8803955439246149,False
+ae_l32,21,99.5,SSH-BruteForce,94197,0.0,True
+ae_l32,21,99.9,FTP-BruteForce - Attempted,193354,0.33274201723264063,False
+ae_l32,21,99.9,SSH-BruteForce,94197,0.0,True
+ae_l32,42,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,42,90,SSH-BruteForce,94197,1.0,True
+ae_l32,42,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,42,92,SSH-BruteForce,94197,1.0,True
+ae_l32,42,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,42,94,SSH-BruteForce,94197,1.0,True
+ae_l32,42,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,42,95,SSH-BruteForce,94197,1.0,True
+ae_l32,42,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,42,96,SSH-BruteForce,94197,1.0,True
+ae_l32,42,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,42,97,SSH-BruteForce,94197,1.0,True
+ae_l32,42,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,42,98,SSH-BruteForce,94197,1.0,True
+ae_l32,42,99,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,42,99,SSH-BruteForce,94197,0.0,True
+ae_l32,42,99.5,FTP-BruteForce - Attempted,193354,0.9092131530767401,False
+ae_l32,42,99.5,SSH-BruteForce,94197,0.0,True
+ae_l32,42,99.9,FTP-BruteForce - Attempted,193354,0.8781716437208437,False
+ae_l32,42,99.9,SSH-BruteForce,94197,0.0,True
+ae_l32,84,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,84,90,SSH-BruteForce,94197,1.0,True
+ae_l32,84,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,84,92,SSH-BruteForce,94197,1.0,True
+ae_l32,84,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,84,94,SSH-BruteForce,94197,1.0,True
+ae_l32,84,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,84,95,SSH-BruteForce,94197,1.0,True
+ae_l32,84,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,84,96,SSH-BruteForce,94197,1.0,True
+ae_l32,84,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,84,97,SSH-BruteForce,94197,1.0,True
+ae_l32,84,98,FTP-BruteForce - Attempted,193354,0.9977295530477777,False
+ae_l32,84,98,SSH-BruteForce,94197,1.0,True
+ae_l32,84,99,FTP-BruteForce - Attempted,193354,0.9010571283759322,False
+ae_l32,84,99,SSH-BruteForce,94197,0.0,True
+ae_l32,84,99.5,FTP-BruteForce - Attempted,193354,0.8927976664563443,False
+ae_l32,84,99.5,SSH-BruteForce,94197,0.0,True
+ae_l32,84,99.9,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+ae_l32,84,99.9,SSH-BruteForce,94197,0.0,True
+ae_l32,123,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,123,90,SSH-BruteForce,94197,1.0,True
+ae_l32,123,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,123,92,SSH-BruteForce,94197,1.0,True
+ae_l32,123,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,123,94,SSH-BruteForce,94197,1.0,True
+ae_l32,123,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,123,95,SSH-BruteForce,94197,1.0,True
+ae_l32,123,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,123,96,SSH-BruteForce,94197,1.0,True
+ae_l32,123,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,123,97,SSH-BruteForce,94197,1.0,True
+ae_l32,123,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l32,123,98,SSH-BruteForce,94197,1.0,True
+ae_l32,123,99,FTP-BruteForce - Attempted,193354,0.9819036585744283,False
+ae_l32,123,99,SSH-BruteForce,94197,0.0,True
+ae_l32,123,99.5,FTP-BruteForce - Attempted,193354,0.9002916929569598,False
+ae_l32,123,99.5,SSH-BruteForce,94197,0.0,True
+ae_l32,123,99.9,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+ae_l32,123,99.9,SSH-BruteForce,94197,0.0,True
+ae_l8,7,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,7,90,SSH-BruteForce,94197,1.0,True
+ae_l8,7,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,7,92,SSH-BruteForce,94197,1.0,True
+ae_l8,7,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,7,94,SSH-BruteForce,94197,1.0,True
+ae_l8,7,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,7,95,SSH-BruteForce,94197,1.0,True
+ae_l8,7,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,7,96,SSH-BruteForce,94197,1.0,True
+ae_l8,7,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,7,97,SSH-BruteForce,94197,1.0,True
+ae_l8,7,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,7,98,SSH-BruteForce,94197,1.0,True
+ae_l8,7,99,FTP-BruteForce - Attempted,193354,0.8958852674369292,False
+ae_l8,7,99,SSH-BruteForce,94197,0.0012845419705510791,True
+ae_l8,7,99.5,FTP-BruteForce - Attempted,193354,0.8911685302605583,False
+ae_l8,7,99.5,SSH-BruteForce,94197,0.0,True
+ae_l8,7,99.9,FTP-BruteForce - Attempted,193354,0.7842454772076088,False
+ae_l8,7,99.9,SSH-BruteForce,94197,0.0,True
+ae_l8,21,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,21,90,SSH-BruteForce,94197,1.0,True
+ae_l8,21,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,21,92,SSH-BruteForce,94197,1.0,True
+ae_l8,21,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,21,94,SSH-BruteForce,94197,1.0,True
+ae_l8,21,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,21,95,SSH-BruteForce,94197,1.0,True
+ae_l8,21,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,21,96,SSH-BruteForce,94197,1.0,True
+ae_l8,21,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,21,97,SSH-BruteForce,94197,1.0,True
+ae_l8,21,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,21,98,SSH-BruteForce,94197,1.0,True
+ae_l8,21,99,FTP-BruteForce - Attempted,193354,0.8964127972527075,False
+ae_l8,21,99,SSH-BruteForce,94197,1.0,True
+ae_l8,21,99.5,FTP-BruteForce - Attempted,193354,0.8870000103437219,False
+ae_l8,21,99.5,SSH-BruteForce,94197,0.0,True
+ae_l8,21,99.9,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+ae_l8,21,99.9,SSH-BruteForce,94197,0.0,True
+ae_l8,42,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,42,90,SSH-BruteForce,94197,1.0,True
+ae_l8,42,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,42,92,SSH-BruteForce,94197,1.0,True
+ae_l8,42,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,42,94,SSH-BruteForce,94197,1.0,True
+ae_l8,42,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,42,95,SSH-BruteForce,94197,1.0,True
+ae_l8,42,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,42,96,SSH-BruteForce,94197,1.0,True
+ae_l8,42,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,42,97,SSH-BruteForce,94197,1.0,True
+ae_l8,42,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,42,98,SSH-BruteForce,94197,0.0033971357898871513,True
+ae_l8,42,99,FTP-BruteForce - Attempted,193354,0.8982022611376025,False
+ae_l8,42,99,SSH-BruteForce,94197,0.0,True
+ae_l8,42,99.5,FTP-BruteForce - Attempted,193354,0.8725239715754523,False
+ae_l8,42,99.5,SSH-BruteForce,94197,0.0,True
+ae_l8,42,99.9,FTP-BruteForce - Attempted,193354,0.33274201723264063,False
+ae_l8,42,99.9,SSH-BruteForce,94197,0.0,True
+ae_l8,84,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,84,90,SSH-BruteForce,94197,1.0,True
+ae_l8,84,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,84,92,SSH-BruteForce,94197,1.0,True
+ae_l8,84,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,84,94,SSH-BruteForce,94197,1.0,True
+ae_l8,84,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,84,95,SSH-BruteForce,94197,1.0,True
+ae_l8,84,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,84,96,SSH-BruteForce,94197,1.0,True
+ae_l8,84,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,84,97,SSH-BruteForce,94197,1.0,True
+ae_l8,84,98,FTP-BruteForce - Attempted,193354,0.9893045915781417,False
+ae_l8,84,98,SSH-BruteForce,94197,1.0,True
+ae_l8,84,99,FTP-BruteForce - Attempted,193354,0.8969972175388148,False
+ae_l8,84,99,SSH-BruteForce,94197,4.2464197373589395e-05,True
+ae_l8,84,99.5,FTP-BruteForce - Attempted,193354,0.8915305605262885,False
+ae_l8,84,99.5,SSH-BruteForce,94197,0.0,True
+ae_l8,84,99.9,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+ae_l8,84,99.9,SSH-BruteForce,94197,0.0,True
+ae_l8,123,90,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,123,90,SSH-BruteForce,94197,1.0,True
+ae_l8,123,92,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,123,92,SSH-BruteForce,94197,1.0,True
+ae_l8,123,94,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,123,94,SSH-BruteForce,94197,1.0,True
+ae_l8,123,95,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,123,95,SSH-BruteForce,94197,1.0,True
+ae_l8,123,96,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,123,96,SSH-BruteForce,94197,1.0,True
+ae_l8,123,97,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,123,97,SSH-BruteForce,94197,1.0,True
+ae_l8,123,98,FTP-BruteForce - Attempted,193354,1.0,False
+ae_l8,123,98,SSH-BruteForce,94197,1.0,True
+ae_l8,123,99,FTP-BruteForce - Attempted,193354,0.8911840458433754,False
+ae_l8,123,99,SSH-BruteForce,94197,0.001974585177871907,True
+ae_l8,123,99.5,FTP-BruteForce - Attempted,193354,0.8802714192620789,False
+ae_l8,123,99.5,SSH-BruteForce,94197,0.0,True
+ae_l8,123,99.9,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+ae_l8,123,99.9,SSH-BruteForce,94197,0.0,True
+iforest,7,90,FTP-BruteForce - Attempted,193354,0.999994828139061,False
+iforest,7,90,SSH-BruteForce,94197,1.0,True
+iforest,7,92,FTP-BruteForce - Attempted,193354,0.9998758753374639,False
+iforest,7,92,SSH-BruteForce,94197,1.0,True
+iforest,7,94,FTP-BruteForce - Attempted,193354,0.9992087052763325,False
+iforest,7,94,SSH-BruteForce,94197,0.006857967875834687,True
+iforest,7,95,FTP-BruteForce - Attempted,193354,0.9963021194286128,False
+iforest,7,95,SSH-BruteForce,94197,0.00021232098686794695,True
+iforest,7,96,FTP-BruteForce - Attempted,193354,0.9917922566898021,False
+iforest,7,96,SSH-BruteForce,94197,0.0,True
+iforest,7,97,FTP-BruteForce - Attempted,193354,0.981505425282125,False
+iforest,7,97,SSH-BruteForce,94197,0.0,True
+iforest,7,98,FTP-BruteForce - Attempted,193354,0.8958852674369292,False
+iforest,7,98,SSH-BruteForce,94197,0.0,True
+iforest,7,99,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,7,99,SSH-BruteForce,94197,0.0,True
+iforest,7,99.5,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,7,99.5,SSH-BruteForce,94197,0.0,True
+iforest,7,99.9,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,7,99.9,SSH-BruteForce,94197,0.0,True
+iforest,21,90,FTP-BruteForce - Attempted,193354,0.9978640214321918,False
+iforest,21,90,SSH-BruteForce,94197,1.0,True
+iforest,21,92,FTP-BruteForce - Attempted,193354,0.9939851257279394,False
+iforest,21,92,SSH-BruteForce,94197,0.00332282344448337,True
+iforest,21,94,FTP-BruteForce - Attempted,193354,0.9837758722343474,False
+iforest,21,94,SSH-BruteForce,94197,0.0,True
+iforest,21,95,FTP-BruteForce - Attempted,193354,0.8934286334909027,False
+iforest,21,95,SSH-BruteForce,94197,0.0,True
+iforest,21,96,FTP-BruteForce - Attempted,193354,0.850078095100179,False
+iforest,21,96,SSH-BruteForce,94197,0.0,True
+iforest,21,97,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,21,97,SSH-BruteForce,94197,0.0,True
+iforest,21,98,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,21,98,SSH-BruteForce,94197,0.0,True
+iforest,21,99,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,21,99,SSH-BruteForce,94197,0.0,True
+iforest,21,99.5,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,21,99.5,SSH-BruteForce,94197,0.0,True
+iforest,21,99.9,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,21,99.9,SSH-BruteForce,94197,0.0,True
+iforest,42,90,FTP-BruteForce - Attempted,193354,0.9999534532515489,False
+iforest,42,90,SSH-BruteForce,94197,1.0,True
+iforest,42,92,FTP-BruteForce - Attempted,193354,0.9996379697342698,False
+iforest,42,92,SSH-BruteForce,94197,0.0035563765300381115,True
+iforest,42,94,FTP-BruteForce - Attempted,193354,0.9948281390609969,False
+iforest,42,94,SSH-BruteForce,94197,0.0,True
+iforest,42,95,FTP-BruteForce - Attempted,193354,0.993333471249625,False
+iforest,42,95,SSH-BruteForce,94197,0.0,True
+iforest,42,96,FTP-BruteForce - Attempted,193354,0.9889839361999234,False
+iforest,42,96,SSH-BruteForce,94197,0.0,True
+iforest,42,97,FTP-BruteForce - Attempted,193354,0.978066137757688,False
+iforest,42,97,SSH-BruteForce,94197,0.0,True
+iforest,42,98,FTP-BruteForce - Attempted,193354,0.8725239715754523,False
+iforest,42,98,SSH-BruteForce,94197,0.0,True
+iforest,42,99,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,42,99,SSH-BruteForce,94197,0.0,True
+iforest,42,99.5,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,42,99.5,SSH-BruteForce,94197,0.0,True
+iforest,42,99.9,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,42,99.9,SSH-BruteForce,94197,0.0,True
+iforest,84,90,FTP-BruteForce - Attempted,193354,0.9990535494481625,False
+iforest,84,90,SSH-BruteForce,94197,1.0,True
+iforest,84,92,FTP-BruteForce - Attempted,193354,0.9963021194286128,False
+iforest,84,92,SSH-BruteForce,94197,0.007378154293661157,True
+iforest,84,94,FTP-BruteForce - Attempted,193354,0.9826380628277667,False
+iforest,84,94,SSH-BruteForce,94197,0.0,True
+iforest,84,95,FTP-BruteForce - Attempted,193354,0.9626798514641538,False
+iforest,84,95,SSH-BruteForce,94197,0.0,True
+iforest,84,96,FTP-BruteForce - Attempted,193354,0.33274201723264063,False
+iforest,84,96,SSH-BruteForce,94197,0.0,True
+iforest,84,97,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,84,97,SSH-BruteForce,94197,0.0,True
+iforest,84,98,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,84,98,SSH-BruteForce,94197,0.0,True
+iforest,84,99,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,84,99,SSH-BruteForce,94197,0.0,True
+iforest,84,99.5,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,84,99.5,SSH-BruteForce,94197,0.0,True
+iforest,84,99.9,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,84,99.9,SSH-BruteForce,94197,0.0,True
+iforest,123,90,FTP-BruteForce - Attempted,193354,0.9985570507980182,False
+iforest,123,90,SSH-BruteForce,94197,1.0,True
+iforest,123,92,FTP-BruteForce - Attempted,193354,0.993333471249625,False
+iforest,123,92,SSH-BruteForce,94197,0.006008683928362899,True
+iforest,123,94,FTP-BruteForce - Attempted,193354,0.9826380628277667,False
+iforest,123,94,SSH-BruteForce,94197,0.0,True
+iforest,123,95,FTP-BruteForce - Attempted,193354,0.9626798514641538,False
+iforest,123,95,SSH-BruteForce,94197,0.0,True
+iforest,123,96,FTP-BruteForce - Attempted,193354,0.7842454772076088,False
+iforest,123,96,SSH-BruteForce,94197,0.0,True
+iforest,123,97,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,123,97,SSH-BruteForce,94197,0.0,True
+iforest,123,98,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,123,98,SSH-BruteForce,94197,0.0,True
+iforest,123,99,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,123,99,SSH-BruteForce,94197,0.0,True
+iforest,123,99.5,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,123,99.5,SSH-BruteForce,94197,0.0,True
+iforest,123,99.9,FTP-BruteForce - Attempted,193354,0.0,False
+iforest,123,99.9,SSH-BruteForce,94197,0.0,True

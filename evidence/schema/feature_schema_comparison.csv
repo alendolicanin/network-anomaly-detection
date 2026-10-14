@@ -1,0 +1,92 @@
+source_column,role_2017,role_2018,input_index_2017,input_index_2018
+id,excluded_metadata_or_port,excluded_metadata_or_port,,
+Flow ID,excluded_metadata_or_port,excluded_metadata_or_port,,
+Src IP,excluded_metadata_or_port,excluded_metadata_or_port,,
+Src Port,excluded_metadata_or_port,excluded_metadata_or_port,,
+Dst IP,excluded_metadata_or_port,excluded_metadata_or_port,,
+Dst Port,excluded_metadata_or_port,excluded_metadata_or_port,,
+Protocol,one_hot_train_categories,one_hot_train_categories,,
+Timestamp,excluded_metadata_or_port,excluded_metadata_or_port,,
+Flow Duration,numeric_input,numeric_input,0,0
+Total Fwd Packet,numeric_input,numeric_input,1,1
+Total Bwd packets,numeric_input,numeric_input,2,2
+Total Length of Fwd Packet,numeric_input,numeric_input,3,3
+Total Length of Bwd Packet,numeric_input,numeric_input,4,4
+Fwd Packet Length Max,numeric_input,numeric_input,5,5
+Fwd Packet Length Min,numeric_input,numeric_input,6,6
+Fwd Packet Length Mean,numeric_input,numeric_input,7,7
+Fwd Packet Length Std,numeric_input,numeric_input,8,8
+Bwd Packet Length Max,numeric_input,numeric_input,9,9
+Bwd Packet Length Min,numeric_input,numeric_input,10,10
+Bwd Packet Length Mean,numeric_input,numeric_input,11,11
+Bwd Packet Length Std,numeric_input,numeric_input,12,12
+Flow Bytes/s,numeric_input,numeric_input,13,13
+Flow Packets/s,numeric_input,numeric_input,14,14
+Flow IAT Mean,numeric_input,numeric_input,15,15
+Flow IAT Std,numeric_input,numeric_input,16,16
+Flow IAT Max,numeric_input,numeric_input,17,17
+Flow IAT Min,numeric_input,numeric_input,18,18
+Fwd IAT Total,numeric_input,numeric_input,19,19
+Fwd IAT Mean,numeric_input,numeric_input,20,20
+Fwd IAT Std,numeric_input,numeric_input,21,21
+Fwd IAT Max,numeric_input,numeric_input,22,22
+Fwd IAT Min,numeric_input,numeric_input,23,23
+Bwd IAT Total,numeric_input,numeric_input,24,24
+Bwd IAT Mean,numeric_input,numeric_input,25,25
+Bwd IAT Std,numeric_input,numeric_input,26,26
+Bwd IAT Max,numeric_input,numeric_input,27,27
+Bwd IAT Min,numeric_input,numeric_input,28,28
+Fwd PSH Flags,numeric_input,numeric_input,29,29
+Bwd PSH Flags,numeric_input,numeric_input,30,30
+Fwd URG Flags,excluded_constant_train_only,excluded_constant_train_only,,
+Bwd URG Flags,excluded_constant_train_only,excluded_constant_train_only,,
+Fwd RST Flags,numeric_input,numeric_input,31,31
+Bwd RST Flags,numeric_input,numeric_input,32,32
+Fwd Header Length,numeric_input,numeric_input,33,33
+Bwd Header Length,numeric_input,numeric_input,34,34
+Fwd Packets/s,numeric_input,numeric_input,35,35
+Bwd Packets/s,numeric_input,numeric_input,36,36
+Packet Length Min,numeric_input,numeric_input,37,37
+Packet Length Max,numeric_input,numeric_input,38,38
+Packet Length Mean,numeric_input,numeric_input,39,39
+Packet Length Std,numeric_input,numeric_input,40,40
+Packet Length Variance,numeric_input,numeric_input,41,41
+FIN Flag Count,numeric_input,numeric_input,42,42
+SYN Flag Count,numeric_input,numeric_input,43,43
+RST Flag Count,numeric_input,numeric_input,44,44
+PSH Flag Count,numeric_input,numeric_input,45,45
+ACK Flag Count,numeric_input,numeric_input,46,46
+URG Flag Count,excluded_constant_train_only,excluded_constant_train_only,,
+CWR Flag Count,numeric_input,numeric_input,47,47
+ECE Flag Count,numeric_input,numeric_input,48,48
+Down/Up Ratio,numeric_input,numeric_input,49,49
+Average Packet Size,numeric_input,numeric_input,50,50
+Fwd Segment Size Avg,numeric_input,numeric_input,51,51
+Bwd Segment Size Avg,numeric_input,numeric_input,52,52
+Fwd Bytes/Bulk Avg,numeric_input,numeric_input,53,53
+Fwd Packet/Bulk Avg,numeric_input,numeric_input,54,54
+Fwd Bulk Rate Avg,numeric_input,numeric_input,55,55
+Bwd Bytes/Bulk Avg,numeric_input,numeric_input,56,56
+Bwd Packet/Bulk Avg,numeric_input,numeric_input,57,57
+Bwd Bulk Rate Avg,numeric_input,numeric_input,58,58
+Subflow Fwd Packets,numeric_input,numeric_input,59,59
+Subflow Fwd Bytes,numeric_input,numeric_input,60,60
+Subflow Bwd Packets,numeric_input,numeric_input,61,61
+Subflow Bwd Bytes,numeric_input,numeric_input,62,62
+FWD Init Win Bytes,numeric_input,numeric_input,63,63
+Bwd Init Win Bytes,numeric_input,numeric_input,64,64
+Fwd Act Data Pkts,numeric_input,numeric_input,65,65
+Fwd Seg Size Min,numeric_input,numeric_input,66,66
+Active Mean,numeric_input,numeric_input,67,67
+Active Std,numeric_input,numeric_input,68,68
+Active Max,numeric_input,numeric_input,69,69
+Active Min,numeric_input,numeric_input,70,70
+Idle Mean,numeric_input,numeric_input,71,71
+Idle Std,numeric_input,numeric_input,72,72
+Idle Max,numeric_input,numeric_input,73,73
+Idle Min,numeric_input,numeric_input,74,74
+ICMP Code,numeric_input,numeric_input,75,75
+ICMP Type,numeric_input,numeric_input,76,76
+Total TCP Flow Time,numeric_input,numeric_input,77,77
+Label,excluded_metadata_or_port,excluded_metadata_or_port,,
+Attempted Category,excluded_metadata_or_port,excluded_metadata_or_port,,

@@ -1,0 +1,3466 @@
+{
+  "architecture": "ae_l8",
+  "percentile_ae": 98,
+  "percentile_if": 95,
+  "architecture_ranking": [
+    {
+      "architecture": "ae_l8",
+      "mean_f1": 0.8840087447954641,
+      "mean_fpr": 0.0677292467272784,
+      "parameters": 15386
+    },
+    {
+      "architecture": "ae_wide_l16",
+      "mean_f1": 0.8803875296358777,
+      "mean_fpr": 0.06777579904395913,
+      "parameters": 43042
+    },
+    {
+      "architecture": "ae_l32",
+      "mean_f1": 0.8744075976545215,
+      "mean_fpr": 0.06524978910863248,
+      "parameters": 16946
+    },
+    {
+      "architecture": "ae_l16",
+      "mean_f1": 0.8738299235865359,
+      "mean_fpr": 0.06749148623738556,
+      "parameters": 15906
+    },
+    {
+      "architecture": "ae_l4",
+      "mean_f1": 0.8708259003628942,
+      "mean_fpr": 0.06740400537382447,
+      "parameters": 15126
+    },
+    {
+      "architecture": "ae_compact_l16",
+      "mean_f1": 0.8633158124659163,
+      "mean_fpr": 0.0739241415940263,
+      "parameters": 6434
+    }
+  ],
+  "ae_percentile_ranking": [
+    {
+      "percentile": 98,
+      "mean_f1": 0.9077886146927316,
+      "mean_fpr": 0.03444309057393695
+    },
+    {
+      "percentile": 97,
+      "mean_f1": 0.905190778021009,
+      "mean_fpr": 0.04572593495172931
+    },
+    {
+      "percentile": 99,
+      "mean_f1": 0.8994232967757189,
+      "mean_fpr": 0.022482581935201675
+    },
+    {
+      "percentile": 96,
+      "mean_f1": 0.8948384060235199,
+      "mean_fpr": 0.056501702752522885
+    },
+    {
+      "percentile": 95,
+      "mean_f1": 0.8840087447954641,
+      "mean_fpr": 0.0677292467272784
+    },
+    {
+      "percentile": 94,
+      "mean_f1": 0.8739735409676413,
+      "mean_fpr": 0.07782078920236199
+    },
+    {
+      "percentile": 92,
+      "mean_f1": 0.8479568975579731,
+      "mean_fpr": 0.09837129377948574
+    },
+    {
+      "percentile": 99.5,
+      "mean_f1": 0.826013715680252,
+      "mean_fpr": 0.012908426281750868
+    },
+    {
+      "percentile": 90,
+      "mean_f1": 0.8226344754342032,
+      "mean_fpr": 0.11938982097666137
+    },
+    {
+      "percentile": 99.9,
+      "mean_f1": 0.26849271027539096,
+      "mean_fpr": 0.0018845877464304683
+    }
+  ],
+  "if_percentile_ranking": [
+    {
+      "percentile": 95,
+      "mean_f1": 0.8698393959606119,
+      "mean_fpr": 0.05923204299059581
+    },
+    {
+      "percentile": 94,
+      "mean_f1": 0.8587569825248776,
+      "mean_fpr": 0.07132502265129503
+    },
+    {
+      "percentile": 96,
+      "mean_f1": 0.8498470333546135,
+      "mean_fpr": 0.047528665604399035
+    },
+    {
+      "percentile": 92,
+      "mean_f1": 0.8271252754012698,
+      "mean_fpr": 0.09679101446558565
+    },
+    {
+      "percentile": 90,
+      "mean_f1": 0.8001375167408457,
+      "mean_fpr": 0.1203030587059081
+    },
+    {
+      "percentile": 97,
+      "mean_f1": 0.7016024244344947,
+      "mean_fpr": 0.036771018839628834
+    },
+    {
+      "percentile": 98,
+      "mean_f1": 0.2936746087488385,
+      "mean_fpr": 0.02231730558940232
+    },
+    {
+      "percentile": 99,
+      "mean_f1": 0.07400382034925115,
+      "mean_fpr": 0.012025181991439373
+    },
+    {
+      "percentile": 99.5,
+      "mean_f1": 0.036376629695833176,
+      "mean_fpr": 0.006513575155434749
+    },
+    {
+      "percentile": 99.9,
+      "mean_f1": 0.0038471618721812907,
+      "mean_fpr": 0.0012897178742150154
+    }
+  ],
+  "all_development_selection_rows": {
+    "ae_l4": [
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8169262765906219,
+        "fpr": 0.12402443215546599,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8388288874430709,
+        "fpr": 0.10438497828599994,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8490587094486177,
+        "fpr": 0.08352079232667854,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8649177691060694,
+        "fpr": 0.07159996250820133,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8823916240342992,
+        "fpr": 0.058204455275408504,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8957285532863707,
+        "fpr": 0.046358609054269376,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9009945873909695,
+        "fpr": 0.035367263411128814,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8967622994706576,
+        "fpr": 0.01877558034180023,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.6563631585095199,
+        "fpr": 0.008541881463429876,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.14626546919573077,
+        "fpr": 0.0017152497891086325,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8178979607767507,
+        "fpr": 0.12319023963507983,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8446035383367255,
+        "fpr": 0.10146686662292624,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8608904874116334,
+        "fpr": 0.07972943418627175,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.87101956976017,
+        "fpr": 0.06790858249757865,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8833123693003222,
+        "fpr": 0.05595807167182179,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8973560107822444,
+        "fpr": 0.045013590777017526,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.897942628184925,
+        "fpr": 0.03512200456150217,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8966797481168223,
+        "fpr": 0.01814290623926016,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7535133599020252,
+        "fpr": 0.008816821320336177,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.20081013013153348,
+        "fpr": 0.0017027525228856188,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8121294178066203,
+        "fpr": 0.11849282969350454,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8352756573571699,
+        "fpr": 0.09846752272940294,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8539879530846869,
+        "fpr": 0.07560846064923298,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8656580798176535,
+        "fpr": 0.06621207860780454,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8772279760956799,
+        "fpr": 0.05693754491205049,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8848324623754227,
+        "fpr": 0.04589464804573999,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8894534300055772,
+        "fpr": 0.032091417502421345,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8639116257403341,
+        "fpr": 0.014393726372356048,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.520309064132825,
+        "fpr": 0.007481175992751585,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.02420381463581305,
+        "fpr": 0.0010700784203455495,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8242464913397124,
+        "fpr": 0.11789608523135564,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8370001977743153,
+        "fpr": 0.0976661355328522,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.860557568184452,
+        "fpr": 0.0743056206454838,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8733069079183824,
+        "fpr": 0.06382822507576467,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8846800708309029,
+        "fpr": 0.05409129252975912,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8969302200390283,
+        "fpr": 0.04113318961477177,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8968513213952684,
+        "fpr": 0.029659137063767303,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8732905629760956,
+        "fpr": 0.013900084356547006,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.4758163515835993,
+        "fpr": 0.0071203174305620644,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.19841818783267676,
+        "fpr": 0.0017902333864467147,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8246435849925167,
+        "fpr": 0.11789608523135564,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8490155154010369,
+        "fpr": 0.09835817164995157,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8646334194317504,
+        "fpr": 0.07809854094416846,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8792271752121958,
+        "fpr": 0.06747117817977318,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8945233735833314,
+        "fpr": 0.05633611397506796,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9004591979342748,
+        "fpr": 0.04365607523354266,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8990334719855531,
+        "fpr": 0.03341456556378292,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8825353244688496,
+        "fpr": 0.0185896835067329,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.6886760788682506,
+        "fpr": 0.007885774986721654,
+        "parameters": 15126
+      },
+      {
+        "architecture": "ae_l4",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.2710989576074472,
+        "fpr": 0.0020245571281282218,
+        "parameters": 15126
+      }
+    ],
+    "ae_l8": [
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.823709667728174,
+        "fpr": 0.1186037429312338,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8498032388084619,
+        "fpr": 0.09772081107257788,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8776144589013721,
+        "fpr": 0.0763848533133377,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8901886101262837,
+        "fpr": 0.06651357515543475,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8995919037395571,
+        "fpr": 0.05611897397444309,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9107420222588343,
+        "fpr": 0.04585090761395945,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9121338005078219,
+        "fpr": 0.03459868153841347,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8954028740973762,
+        "fpr": 0.022724716468272566,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.8684188281891513,
+        "fpr": 0.01380791701815228,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.27218576767511793,
+        "fpr": 0.0019761302215140436,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8240510015857092,
+        "fpr": 0.11839285156372044,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8513838015296723,
+        "fpr": 0.09651326272377918,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8774258391592887,
+        "fpr": 0.07697066266754148,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8913467631449102,
+        "fpr": 0.0667713312712844,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.9055367277775509,
+        "fpr": 0.05601587152810323,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9150344539569848,
+        "fpr": 0.04570562689411691,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9152760712951887,
+        "fpr": 0.03409879088949292,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9176146312257831,
+        "fpr": 0.02039241415940263,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.882070703305551,
+        "fpr": 0.013853219608210704,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.2926533263170869,
+        "fpr": 0.002335426625425688,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8240865471412502,
+        "fpr": 0.11785546911613085,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8481827741684553,
+        "fpr": 0.09575405380073108,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8700644911454998,
+        "fpr": 0.07657231230668292,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8711723969241588,
+        "fpr": 0.06708220076858187,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.886048661103662,
+        "fpr": 0.0552191708063861,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9000647826594875,
+        "fpr": 0.04462148904927047,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9020796372954859,
+        "fpr": 0.034262817508669975,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8878643279030322,
+        "fpr": 0.02267628956165839,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7425986870092876,
+        "fpr": 0.009615084200331178,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.24943246587487944,
+        "fpr": 0.0017105633142750023,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.820712707704145,
+        "fpr": 0.12088136970037804,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8457980705438098,
+        "fpr": 0.10015309151123192,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8739715698667199,
+        "fpr": 0.07797356828193833,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8825251476948052,
+        "fpr": 0.06837722998094167,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8980861047929346,
+        "fpr": 0.057050020308057614,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9010730645476592,
+        "fpr": 0.04595401006029931,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9130051508502022,
+        "fpr": 0.034050363982878744,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9051219892541714,
+        "fpr": 0.022652857187490237,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.8638137024927988,
+        "fpr": 0.013100259318274127,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.2920934919737036,
+        "fpr": 0.0016699471990502077,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8206124530117376,
+        "fpr": 0.12121567157184365,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8446166027394663,
+        "fpr": 0.10171524978910863,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8707913457653267,
+        "fpr": 0.0812025494423095,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8848108060871628,
+        "fpr": 0.06990189646014934,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8849286327038954,
+        "fpr": 0.058104477145624396,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8990395666820794,
+        "fpr": 0.046497641141000405,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8964484135149594,
+        "fpr": 0.03520479895022964,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8911126613982319,
+        "fpr": 0.023966632299184554,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7731666574044713,
+        "fpr": 0.014165651263786046,
+        "parameters": 15386
+      },
+      {
+        "architecture": "ae_l8",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.2360984995361667,
+        "fpr": 0.0017308713718873997,
+        "parameters": 15386
+      }
+    ],
+    "ae_l16": [
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8229130347440778,
+        "fpr": 0.1192067360264942,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.848426228570884,
+        "fpr": 0.0985909332333552,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.873942783309415,
+        "fpr": 0.07772674727403381,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8831456887858388,
+        "fpr": 0.06792264192207954,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8915285399033349,
+        "fpr": 0.05726872246696035,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.892217271275564,
+        "fpr": 0.04668353797606774,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8995498716462972,
+        "fpr": 0.03477051894897991,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8289145000030538,
+        "fpr": 0.020565813728246948,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.6551889117116988,
+        "fpr": 0.013031524354047553,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.28933655040475137,
+        "fpr": 0.001799606336113975,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8219186940796616,
+        "fpr": 0.11945199487612085,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8304331013147719,
+        "fpr": 0.09901271596838192,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8572701291811189,
+        "fpr": 0.07769550410847627,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8718836476946694,
+        "fpr": 0.0671540600493642,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8876525205133927,
+        "fpr": 0.05584403411753679,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9004258878398301,
+        "fpr": 0.04550723279282657,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9118172889099798,
+        "fpr": 0.029101446558565315,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8969918224299065,
+        "fpr": 0.01602305745618146,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7538681242256156,
+        "fpr": 0.009335457868591246,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.35140866681628935,
+        "fpr": 0.0021682756896928795,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8113997854377536,
+        "fpr": 0.11910832005498798,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8317357964447543,
+        "fpr": 0.09802230762020808,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8580489210074772,
+        "fpr": 0.07711438122910613,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8708042727067002,
+        "fpr": 0.06790858249757865,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8856217435621485,
+        "fpr": 0.05748586246758521,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.901263046338062,
+        "fpr": 0.04656637610522698,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9085050113246443,
+        "fpr": 0.03533602024557128,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8996291511906577,
+        "fpr": 0.019770675164807697,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7550474822440348,
+        "fpr": 0.013478301621520292,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.3500369169529068,
+        "fpr": 0.0020542381354078797,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8141991333970973,
+        "fpr": 0.12096885056393913,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8396922059690194,
+        "fpr": 0.09933920704845815,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8563006005810785,
+        "fpr": 0.07831255662823758,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8717583139413505,
+        "fpr": 0.06716343299903146,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8864080234985727,
+        "fpr": 0.05683444246571063,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8991244182389522,
+        "fpr": 0.046388290061549035,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9058362248627146,
+        "fpr": 0.03556097103758553,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8962689485427737,
+        "fpr": 0.020857937326209892,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7073219589693998,
+        "fpr": 0.013376761333458305,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.23756567296702003,
+        "fpr": 0.0016543256162714407,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8040283759817582,
+        "fpr": 0.11923797919205174,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.828657377627958,
+        "fpr": 0.09937982316368295,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8571128372546812,
+        "fpr": 0.07787046583559847,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8715576948041205,
+        "fpr": 0.067308713718874,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8857367761447555,
+        "fpr": 0.05714999843784172,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9006743452393555,
+        "fpr": 0.04547598962726904,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9064466949798541,
+        "fpr": 0.03477989189864717,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9126693318760966,
+        "fpr": 0.01632299184553379,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7851792367135767,
+        "fpr": 0.009341706501702752,
+        "parameters": 15906
+      },
+      {
+        "architecture": "ae_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.2969478231215187,
+        "fpr": 0.0018792764082856874,
+        "parameters": 15906
+      }
+    ],
+    "ae_l32": [
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.817250470283009,
+        "fpr": 0.11734932983409879,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8425751427857157,
+        "fpr": 0.09712094229387322,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8591239887451663,
+        "fpr": 0.07637548036367045,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.87282671301653,
+        "fpr": 0.06648701846471085,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8874682760033078,
+        "fpr": 0.056239260161839597,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9023221838161732,
+        "fpr": 0.044977661136626365,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.908975417992274,
+        "fpr": 0.03362233261474053,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9039219141715319,
+        "fpr": 0.022232636610741402,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.8008379888268157,
+        "fpr": 0.009405754991095697,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.3969428930279789,
+        "fpr": 0.0021651513731371264,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8045526805820706,
+        "fpr": 0.11867404005373824,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.82902527705022,
+        "fpr": 0.0988658730902615,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8591301205907592,
+        "fpr": 0.07617396194582435,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8736485313785746,
+        "fpr": 0.06572312306682913,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.886521638713796,
+        "fpr": 0.056178335989002404,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.902438766109305,
+        "fpr": 0.04485581279095198,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9098715257780919,
+        "fpr": 0.03299434498703409,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9151057323445575,
+        "fpr": 0.01504358421595276,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7924666780251897,
+        "fpr": 0.008894929234230011,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.2495052979422344,
+        "fpr": 0.0015621582778767144,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.806769620527358,
+        "fpr": 0.11687599587590215,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8312996047392468,
+        "fpr": 0.09724747711438123,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8586215456521794,
+        "fpr": 0.07657387446496079,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8786177305364943,
+        "fpr": 0.06234729902833755,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8940468660976107,
+        "fpr": 0.05155590964476521,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9095423189458173,
+        "fpr": 0.04007873277720499,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9118774790050124,
+        "fpr": 0.029805979941887713,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9061750133789079,
+        "fpr": 0.01797731746180523,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7736094607593504,
+        "fpr": 0.008827756428281314,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.3631896481122546,
+        "fpr": 0.0020245571281282218,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8061923233444757,
+        "fpr": 0.11742743774799262,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8321748296246643,
+        "fpr": 0.0966054300621739,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8580771418476858,
+        "fpr": 0.07698784640859811,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8729912267953709,
+        "fpr": 0.06629487299653201,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8888975484045275,
+        "fpr": 0.05510044677726747,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9044620700237574,
+        "fpr": 0.04447620832942794,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9180430629895517,
+        "fpr": 0.03380979160808573,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9138729039741439,
+        "fpr": 0.022363857906083043,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.8014955701861335,
+        "fpr": 0.00896210204017871,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.37622583293487183,
+        "fpr": 0.0021963945386946604,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8127499646426825,
+        "fpr": 0.12100321804605242,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8290476455540577,
+        "fpr": 0.09894554316243322,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8583972499354356,
+        "fpr": 0.076659793170244,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8739537865456375,
+        "fpr": 0.0653966319867529,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8877155894444603,
+        "fpr": 0.05555659699440747,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9042567832227056,
+        "fpr": 0.04441528415659075,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9210062585698964,
+        "fpr": 0.03142437591776799,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9228515652669128,
+        "fpr": 0.01797731746180523,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.8096643305053486,
+        "fpr": 0.008374730527697067,
+        "parameters": 16946
+      },
+      {
+        "architecture": "ae_l32",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.3786443165091983,
+        "fpr": 0.002379167057206236,
+        "parameters": 16946
+      }
+    ],
+    "ae_compact_l16": [
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8109818223260584,
+        "fpr": 0.12848439403880402,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8366803626288708,
+        "fpr": 0.10671259412003624,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8576548599107413,
+        "fpr": 0.08649982816258943,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8609068627450981,
+        "fpr": 0.07532727215921517,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8782217689597627,
+        "fpr": 0.06125691255037961,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8832897196261682,
+        "fpr": 0.04768644359046459,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8917471589733403,
+        "fpr": 0.03478770269003655,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.7780419757783273,
+        "fpr": 0.022084231574343114,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.6967148093918502,
+        "fpr": 0.012337926078670292,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.28176879970214513,
+        "fpr": 0.002194832380416784,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8140878732694623,
+        "fpr": 0.12642703158684038,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8376925664470388,
+        "fpr": 0.10697347455244165,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8633757155652478,
+        "fpr": 0.08579529477926703,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8646615594289501,
+        "fpr": 0.07304652107351517,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8803415712691656,
+        "fpr": 0.0596135220420533,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8954092755200997,
+        "fpr": 0.0475380385540663,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9034135093834801,
+        "fpr": 0.0360389914706158,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8966148427237163,
+        "fpr": 0.019541037897959822,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.8041471058688896,
+        "fpr": 0.008337238729028026,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.21969711986362464,
+        "fpr": 0.001641828350048427,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8129694593243666,
+        "fpr": 0.1272580997906708,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8364017799185302,
+        "fpr": 0.10747024088480644,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8586429922807292,
+        "fpr": 0.08574686787265286,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8624936458485372,
+        "fpr": 0.07409629143624832,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.877912241705771,
+        "fpr": 0.061708376292685975,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8891000306066775,
+        "fpr": 0.04705845596275815,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8916753264294122,
+        "fpr": 0.035095447870778264,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.7773483853363539,
+        "fpr": 0.022020183084950167,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.6217016385080817,
+        "fpr": 0.012297309963445496,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.25436179090573874,
+        "fpr": 0.002057362451963633,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8105759738694107,
+        "fpr": 0.1294716780704221,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8360279413007351,
+        "fpr": 0.1083653575780298,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8521330547462798,
+        "fpr": 0.08663104945793108,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.866946876941266,
+        "fpr": 0.07434779891898648,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8795894808337444,
+        "fpr": 0.05989783484862686,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.883946807062134,
+        "fpr": 0.04754741150373356,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8919837012670364,
+        "fpr": 0.0351673071515606,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.7807570179766468,
+        "fpr": 0.02214671790545818,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.6778460252350287,
+        "fpr": 0.012572249820351798,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.28319681119894724,
+        "fpr": 0.0022776267691442496,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8058747379394884,
+        "fpr": 0.12810791389383572,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8286858618194887,
+        "fpr": 0.10798887743306151,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8474730897570021,
+        "fpr": 0.08415971506233011,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8615701173657296,
+        "fpr": 0.0728028243821664,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8794320726548893,
+        "fpr": 0.05872621614021933,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8844240203622271,
+        "fpr": 0.04659918142906239,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.8847842812662313,
+        "fpr": 0.034643984128471896,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.7693715660769199,
+        "fpr": 0.021420314306245507,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.6010942486321892,
+        "fpr": 0.012408223201174743,
+        "parameters": 6434
+      },
+      {
+        "architecture": "ae_compact_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.30212267714156216,
+        "fpr": 0.0019277033148998657,
+        "parameters": 6434
+      }
+    ],
+    "ae_wide_l16": [
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8244024418171598,
+        "fpr": 0.11798669041147249,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8487998776945421,
+        "fpr": 0.0974505576905052,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8689601970121797,
+        "fpr": 0.07832974036929422,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8814920079982896,
+        "fpr": 0.06838035429749742,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8976296444338537,
+        "fpr": 0.05707813915705939,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9129754699115369,
+        "fpr": 0.04563064329677883,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9161374456745782,
+        "fpr": 0.035236042115787174,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9338138611631214,
+        "fpr": 0.016805698753397696,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.884548592759484,
+        "fpr": 0.009513543912269192,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.3254563134802656,
+        "fpr": 0.002149529790358359,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.823722437132861,
+        "fpr": 0.11861780235573469,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8495415293797891,
+        "fpr": 0.09793951323148062,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8746108791549254,
+        "fpr": 0.07851719936263943,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8862711372886272,
+        "fpr": 0.06900053113381448,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8979255743540435,
+        "fpr": 0.057649889086762274,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9107478391582112,
+        "fpr": 0.04704283437997938,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.905627893714953,
+        "fpr": 0.035814040678601555,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.8944587864388194,
+        "fpr": 0.023415190427094074,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7766884816753926,
+        "fpr": 0.013034648670603305,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.26234200779444333,
+        "fpr": 0.0017308713718873997,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8200170220596692,
+        "fpr": 0.12170618927109694,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8467831570712346,
+        "fpr": 0.09868466273002781,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8577128589263421,
+        "fpr": 0.07836567000968538,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8711547511542423,
+        "fpr": 0.06764926422345112,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8863978758106381,
+        "fpr": 0.056478270378354734,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8943529048963468,
+        "fpr": 0.04588215077951698,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9018158356616782,
+        "fpr": 0.03478926484831443,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.857929403005686,
+        "fpr": 0.018175711563095574,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.704156942567864,
+        "fpr": 0.009441684631486862,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.32271572124688164,
+        "fpr": 0.0019886274877370575,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8265998887033945,
+        "fpr": 0.11630893242103289,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8525114887122356,
+        "fpr": 0.09569469178617178,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8781064679712227,
+        "fpr": 0.07596619489486675,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8906193126335158,
+        "fpr": 0.06621832724091604,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8868953586541599,
+        "fpr": 0.056750085918705284,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.9008098827404165,
+        "fpr": 0.04531664948292561,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.9143090521578259,
+        "fpr": 0.034562751898022305,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9245611737712012,
+        "fpr": 0.016107414003186802,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.8921161452445281,
+        "fpr": 0.009607273408941793,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.27252502246375765,
+        "fpr": 0.001838660293060893,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8249559664581294,
+        "fpr": 0.11757584278439091,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8505222555328534,
+        "fpr": 0.09718186646671041,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8633824932421689,
+        "fpr": 0.0783641078514075,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8724004391047143,
+        "fpr": 0.0676305183241166,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8862755260702809,
+        "fpr": 0.05671259412003624,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8991719898408201,
+        "fpr": 0.046374230637048146,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.913148531460963,
+        "fpr": 0.03477989189864717,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.9135980472852155,
+        "fpr": 0.02000812322304496,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.7704283761555035,
+        "fpr": 0.01120692348548755,
+        "parameters": 43042
+      },
+      {
+        "architecture": "ae_wide_l16",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.20358557577513475,
+        "fpr": 0.0019292654731777423,
+        "parameters": 43042
+      }
+    ],
+    "iforest": [
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.7996970968657028,
+        "fpr": 0.12092667229043647,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.824996901632293,
+        "fpr": 0.09870184647108445,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8605187466592003,
+        "fpr": 0.0706970350235886,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8753286596396878,
+        "fpr": 0.05948230074671166,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8866288674077311,
+        "fpr": 0.047419314524947666,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.8389121338912134,
+        "fpr": 0.03662011434998594,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.6732609995258677,
+        "fpr": 0.022652857187490237,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.11963249028219496,
+        "fpr": 0.011970818883369263,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.037603021978021976,
+        "fpr": 0.006695410378979598,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 7,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.005102948370169431,
+        "fpr": 0.0013418939606960978,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8002582614310031,
+        "fpr": 0.12016433905083262,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8284672156979628,
+        "fpr": 0.09559158933983192,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8594337437414251,
+        "fpr": 0.07102196394538694,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.871675401821469,
+        "fpr": 0.05885431311900522,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8592372245343521,
+        "fpr": 0.04752710344612116,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.7116818083357755,
+        "fpr": 0.03692785953072766,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.28425694939415536,
+        "fpr": 0.02186552941544037,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.07622171338985498,
+        "fpr": 0.012403536726341114,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.0382674426095733,
+        "fpr": 0.006445465054519324,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 21,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.0037501530106940563,
+        "fpr": 0.0012669103633580153,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.7997459174512989,
+        "fpr": 0.1209985315712188,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8269738011792758,
+        "fpr": 0.09722716905676883,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8596091528590593,
+        "fpr": 0.07094854250632675,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8703857331434147,
+        "fpr": 0.059244852688474396,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8468599167057396,
+        "fpr": 0.04759740056862561,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.7057438463359545,
+        "fpr": 0.03702315118567813,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.19815362786920443,
+        "fpr": 0.022576311431874278,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.05944846880671447,
+        "fpr": 0.012508201330958852,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.028017787360194044,
+        "fpr": 0.0067922641922079545,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 42,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.0029055690072639223,
+        "fpr": 0.001274721154747399,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.8025200690030101,
+        "fpr": 0.11846158652794701,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8286314019778657,
+        "fpr": 0.09544943293654513,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8563438290515718,
+        "fpr": 0.0723935389133627,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.8649532452740066,
+        "fpr": 0.058840253694504324,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8362784791797774,
+        "fpr": 0.04745993064017246,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.6426218265920827,
+        "fpr": 0.03641859593213984,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.16261852436274532,
+        "fpr": 0.022077982941231606,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.05407215550846349,
+        "fpr": 0.011513106507951386,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.034112750825091395,
+        "fpr": 0.006234573687005967,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 84,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.00451620438605761,
+        "fpr": 0.001270034679913769,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 90,
+        "f1": 0.7984662389532128,
+        "fpr": 0.12096416408910551,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 92,
+        "f1": 0.8265570565189514,
+        "fpr": 0.09698503452369794,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 94,
+        "f1": 0.8578794403131315,
+        "fpr": 0.07156403286781017,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 95,
+        "f1": 0.866853939924481,
+        "fpr": 0.05973849470428344,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 96,
+        "f1": 0.8202306789454676,
+        "fpr": 0.047639578842128286,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 97,
+        "f1": 0.6090525070174473,
+        "fpr": 0.03686537319961258,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 98,
+        "f1": 0.1500829425922197,
+        "fpr": 0.0224138469709751,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99,
+        "f1": 0.06064427375902786,
+        "fpr": 0.011730246508576249,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.5,
+        "f1": 0.04388214570628517,
+        "fpr": 0.0064001624644608995,
+        "parameters": 0
+      },
+      {
+        "architecture": "iforest",
+        "seed": 123,
+        "role": "development",
+        "percentile": 99.9,
+        "f1": 0.002960934586721433,
+        "fpr": 0.0012950292123597963,
+        "parameters": 0
+      }
+    ]
+  },
+  "receipts": {
+    "ae_l4_seed7": {
+      "fit": "9d3428d86c8c6ab60233b680a1945659dc711ccf12437e0f419664068fadd4ec",
+      "development": "6c9a50b665a965eadb74565e411c521294f8755418a3f760f4ddd7cbe894dd1e"
+    },
+    "ae_l4_seed21": {
+      "fit": "f041f574935d72132e9e11223f19e256262002baed7917fc8253ff07dc20eb46",
+      "development": "0b94753c2baa5b27a1c90c3e86f82d1f0c92baeac2dd1d8714e5ce1a72642557"
+    },
+    "ae_l4_seed42": {
+      "fit": "6355724dba60ecb52c5b6d82179f6f889875c054d98f2621d693d1df42f5b7c4",
+      "development": "325f81ed850ea1219c7c4d04a1f2ecc5024a3c59197a1da5501d56020cb3ee3d"
+    },
+    "ae_l4_seed84": {
+      "fit": "9dd3f46f3d4aa93e4c7d7a03a1a12256741db89b342a66d6737b7685d79bc633",
+      "development": "cc08875c5c0245055661bac65581a99125fd317ebf50a1b45d21595076b171e9"
+    },
+    "ae_l4_seed123": {
+      "fit": "843aed3a886142bac7c7de38246d7650806c7c7c716b284c7d1f3b914fed22d9",
+      "development": "2a0b246f07a35e38e18fe09ae9fed5f3779fd1652db89f2e298639ff5e1658e2"
+    },
+    "ae_l8_seed7": {
+      "fit": "0a0434f96779e1528f7c0ca44965f85d6c1e240afd89fe30f4538e7a20664810",
+      "development": "92ee7cfdc34ea4a664abaa77c7e6684c563368da50f805f1e7f0f4f124c2205e"
+    },
+    "ae_l8_seed21": {
+      "fit": "1a9fd16b522f09cda989152a54c3bf03004a973b3967af31098824cceecd7f53",
+      "development": "f1f2d1ba7fcd918defafc933d368f9226a8d78fe47aa934287214fc57537d1e3"
+    },
+    "ae_l8_seed42": {
+      "fit": "2c715d8ef2e0c3bb799096815bc345d5425129ce673511d490273b795902b660",
+      "development": "8b3e77d52f4a91bb18cd56c8ba81535125e09b4616515f3b3b014cd2f9efc054"
+    },
+    "ae_l8_seed84": {
+      "fit": "61238788e44ccb1c8181e3a9a534f82c046f810590a82adb5b8e7ad525e5f9ca",
+      "development": "191319f627ba7e3723952c93776ea80af039707a54cd85e5b21926a714b4ddc8"
+    },
+    "ae_l8_seed123": {
+      "fit": "c40aaa8400f1b5d1d95c931756b8376e49fdbae61077fd2888b3d5f81eb46dee",
+      "development": "7595c6cc513b1fe0ce8fd387f2ab2d990f43ac1172a1e1787d1d05baf8ef2c19"
+    },
+    "ae_l16_seed7": {
+      "fit": "f5bbae035a11d0ada40478c852f672fd9a21f8800b4a560609da054361eeb611",
+      "development": "5e09ddedb81df34a0d9eb45090f85f5c1289f588a8057232e78f43b8bab69f2c"
+    },
+    "ae_l16_seed21": {
+      "fit": "f4fcdbdf769cd539d0734ec97e8edc7654db3ff75d00ad4f5ea6b2fedce62453",
+      "development": "cfe99734d4df92d826d8055656db4c3796b9f8561a98eb1258514760185dfe32"
+    },
+    "ae_l16_seed42": {
+      "fit": "fc890f1d0b6fb475f3fc9c7d94d7a777980a6fd9d81eb2c4e2102b3236de6cd5",
+      "development": "8853ccdd6a8504037fc8221bcf161405c1ccb96ad99fde6eac7fd999635b9285"
+    },
+    "ae_l16_seed84": {
+      "fit": "d1017fbe40d7eddbc96493218af2ddd47bc936abc3dd0573312ab2ee4e98876c",
+      "development": "cc18c3292f753d5650c80c107660e4a14cb2efbcf582d8d23208fdead73cbc28"
+    },
+    "ae_l16_seed123": {
+      "fit": "f25dfe68ea51d65e3d1a508798d252fe01a67cf2a993d2bbe6cebf3a3f86e1df",
+      "development": "833eb32912bfb7984ced6b2e88ba22f1e491a2d7f83055d0ce79ebb1618fb5f1"
+    },
+    "ae_l32_seed7": {
+      "fit": "bd7604fac1f109d5298dcfa79021850187e270a14441e25aa0cd1b8d58fc2f86",
+      "development": "705564c6d40ba8f12bbf8a6feed7c3df4d458420de5d9d82a812e5c58a0e3c01"
+    },
+    "ae_l32_seed21": {
+      "fit": "a4eaebe24b2649c5b4877ee840b6257864050f9270b21c490e43c7dee3078cbe",
+      "development": "d78361393e64e0059f6a4873f5751c5ca4b4464b9bee6a979182b43ca5ae2011"
+    },
+    "ae_l32_seed42": {
+      "fit": "5c7d232d900e4f5919a9931724c1871dbb7b480807d868d160e3a8643c8c59ca",
+      "development": "ea1274aa4663b53d8516f8562e5cb6aae0065faa06e01d590d1ebbff5c69da16"
+    },
+    "ae_l32_seed84": {
+      "fit": "7982f1c4301630c569fd7bb79a6ce3c7d194af7b96b34dcbb120a07f3c2f7c37",
+      "development": "ffd3e446d47cdd4a2c4fe3967980113e80018ed30ed55b3cefa70487e5cb0cb1"
+    },
+    "ae_l32_seed123": {
+      "fit": "fc0ec992ef2d63de8777e13ccf9e83ed13397c4cfd7641e945b53a432821ee75",
+      "development": "d55ff357ec90ea852e03ddafe0017cc8646e6b6a84076d470ae5c094278022c9"
+    },
+    "ae_compact_l16_seed7": {
+      "fit": "9d91f82d1659a141685f6095f72c455d6b2b60b609ea03801317cfed4f8e87e1",
+      "development": "ba755a281f7b35b2f66af000c3ff016d2bcd678dc789337e270d72bb518d9fb7"
+    },
+    "ae_compact_l16_seed21": {
+      "fit": "fef39848822d21f9db89c3f0114e7e719f62c05f46b30ea31597e985540412ec",
+      "development": "fa0b96368ecf9a7130b5481f4a34d8f0255ae86a96767ba501e9ccb7e36edd8b"
+    },
+    "ae_compact_l16_seed42": {
+      "fit": "b24a7317a0d120c7f4c176df7e045ce7afdba2ec6e98bbcb7509d90ef6a9a2cb",
+      "development": "c7c29f0be0e13c4db4e630aa24bdbc4aed478fcceebd521e5e015f1b7d83380e"
+    },
+    "ae_compact_l16_seed84": {
+      "fit": "f4fc285d1555ced839d0eaa6327330f80ece23c22d43dbb306f0491985a59002",
+      "development": "7065fa23de17e47741b02f933aaf51c76f90c83cb15c6128e46af7f67ea6a784"
+    },
+    "ae_compact_l16_seed123": {
+      "fit": "f85c5d63b989dd9b9f57d9426dcd707a159cb5c3efda5d8bac868b1ede806991",
+      "development": "cc87977811ac76b4029c6c744f6e7d11d4a969be29a1fe86ab2c2f8ee4c247ef"
+    },
+    "ae_wide_l16_seed7": {
+      "fit": "068354aaac447e8c3fffdfdbfd6fa6a8b9659c08baa155a647b5b07010c73a3c",
+      "development": "a977ce9ae277b677846d667fe214dfcaacac83bc4fc6b248a9efac3586e9318c"
+    },
+    "ae_wide_l16_seed21": {
+      "fit": "31df3146cbeb956138ddb6c33db4570d0600884de7640e780c76495915dc3315",
+      "development": "154fc87230a89a19936c79df9af481b4961062b6c3fb0bf36bb58d5fe40c2900"
+    },
+    "ae_wide_l16_seed42": {
+      "fit": "50056bd62f30dcb9bf8427b0a61257c4d823cafdc1147b06127c74b6208dfe02",
+      "development": "6bfed50711600999a066fb18d59bf0711e520e039e040d56e132f0921602fda3"
+    },
+    "ae_wide_l16_seed84": {
+      "fit": "56426d5a6c6fd40884ede45dc3a807e2c71cf068f4c7f0a75b9f1b1e23e90156",
+      "development": "62c06e734df717247d6f761bf9e832e83c3c609caf6ce72e2163309ead65d95b"
+    },
+    "ae_wide_l16_seed123": {
+      "fit": "bec298f0e98cd42306d2da898618ead8058d84746909183540344a61e12f4b35",
+      "development": "af30cee00d2dc5fa11325f0155a600f287230782ac3c241f960f34fbe5967934"
+    },
+    "iforest_seed7": {
+      "fit": "e91f5f7fa7131811c60bc539788b984ba393471a64f278c1b4150ec8f1f5d6ec",
+      "development": "e329c8b2e1364560aaab5cfc2700a687a5899f336ae0824243465bbc048dae38"
+    },
+    "iforest_seed21": {
+      "fit": "8eadc924041dd1b0280b831b9fee9c7c8990e28feac0b26c657373345567489d",
+      "development": "cc92a89ade1c3c6eccf5031d51212624f22d3ca4f1f9004ce07d824da3008b1b"
+    },
+    "iforest_seed42": {
+      "fit": "6cd66a143876736fb210b837ee4925aa6dad8c2239c76b16e0b13ad52bb4dfb1",
+      "development": "e34758822f6e009a5cdb185b6c79bc5aa3278099b1504e49464d1dec3d5d9b11"
+    },
+    "iforest_seed84": {
+      "fit": "456bb571b5e65ae6750b483e6a9e03d59926a8b7beeea254448e27c10bf556ef",
+      "development": "5bdafe63cd9c7d6ac022aaa895c1317557fbb22fcec4e21dc8f06b95f8568c58"
+    },
+    "iforest_seed123": {
+      "fit": "4957cb654dc97b26169403ee64c0d8f4271bf9b9b512781c3eb685e1bdea9d6d",
+      "development": "38ba05a27e45e88a5aac860bd74f6f5e405f0e087af00ad67d6bd3b438941fcc"
+    }
+  },
+  "config_hash": "a99128fb73edae110b6d815d104f7cc3576b98e4a4ae7427420f1e48f0a3b87d",
+  "code_hash": "bfffa42430e75f53ca6a707f5937403b8503089499ac27755bdfdf407646df76",
+  "main_data_hash": "80a2e241efb82d660052bc34a634cd0c2900548457684f7d179dd22fa9cd98e3",
+  "runtime_versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0",
+    "joblib": "1.5.3",
+    "threadpoolctl": "3.6.0"
+  }
+}
